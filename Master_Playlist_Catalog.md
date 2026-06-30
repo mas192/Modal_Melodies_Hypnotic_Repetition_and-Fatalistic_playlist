@@ -47,6 +47,7 @@
 44. The Promise - Tracy Chapman
 45. Hallelujah - Leonard Cohen
 46. Hallelujah - Rufus Wainwright
+47. Za Milena .J - Moriarty
 
 ## Massive Ache
 1. Street Spirit (Fade Out) - Radiohead
@@ -99,3 +100,6 @@
 
 ## The Ivory Parlor
 1. It's De-Lovely - Oscar Peterson
+
+## The Amber Hearth
+1. Hear Me Out - Irma
