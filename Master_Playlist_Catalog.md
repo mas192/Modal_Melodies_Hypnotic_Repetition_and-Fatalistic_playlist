@@ -83,6 +83,7 @@
 15. Selva Negra - La Lá
 16. (Where Do I Begin) Love Story [1994 Remaster] - Shirley Bassey
 17. La chanson des vieux amants - Jacques Brel
+18. Lilac Wine - Eartha Kitt
 
 ## The Glass Room
 1. Ambre - Nils Frahm
